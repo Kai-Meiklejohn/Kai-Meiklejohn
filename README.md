@@ -3,17 +3,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kai-meiklejohn" alt="kai-meiklejohn" /></a> </p>
 
-- 🔭 I’m currently working on **a Digital Twin Platform**
+- 🔭 I’m currently working on **Digital Twin Platform for decarbonisation, using simulations to optimise industrial energy efficiency**
 
-- 🌱 I’m currently learning **React, TensorFlow & PyTorch**
+- 🌱 I’m currently learning **Machine Learning, Cybersecurity, and Advanced Algorithms**
 
-- 👯 I’m looking to collaborate on **ML & Computer Vision Related Projects**
+- 👯 I’m looking to collaborate on **Front-end and Back-end development projects, with a particular interest in Computer Vision and Networking**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kai-Meiklejohn](https://github.com/Kai-Meiklejohn)
 
 - 📫 How to reach me: **kaim.meiklejohn@gmail.com**
 
-- ⚡ Fun fact: **I have a 40-inch vertical jump.**
+- ⚡ Interest: **I'm interested in Software Methodologies/Measurement, particularly in developing meaningful metrics that enhance developer productivity, team performance, and software quality**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
