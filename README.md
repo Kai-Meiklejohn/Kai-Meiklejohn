@@ -13,7 +13,7 @@
 
 - 📫 How to reach me: **kaim.meiklejohn@gmail.com**
 
-- ⚡ Interest: **I'm interested in Software Methodologies/Measurement, particularly in developing meaningful metrics that enhance developer productivity, team performance, and software quality**
+- ⚡ Interest: **I'm interested in data structures and algorithms and their applications, computer vision, and software methodologies, particularly in measuring and improving software quality, developer productivity, and team performance.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
