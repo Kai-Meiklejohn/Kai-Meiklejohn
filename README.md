@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Front-end and Back-end development projects, with a particular interest in Computer Vision and Networking**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Kai-Meiklejohn](https://github.com/Kai-Meiklejohn)
+- 👨‍💻 Some of my projects are available at [https://github.com/Kai-Meiklejohn](https://github.com/Kai-Meiklejohn)
 
 - 📫 How to reach me: **kaim.meiklejohn@gmail.com**
 
