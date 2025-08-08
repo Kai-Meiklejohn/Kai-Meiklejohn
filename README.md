@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Machine Learning, Cybersecurity, and Advanced Algorithms**
 
-- 👯 I’m looking to collaborate on **Front-end and Back-end development projects, with a particular interest in Computer Vision and Networking**
+- 👯 I’m looking to collaborate on **Front-end and Back-end development projects, with a particular interest in Computer Vision, Machine Learning, and Networking**
 
 - 👨‍💻 Some of my projects are available at [https://github.com/Kai-Meiklejohn](https://github.com/Kai-Meiklejohn)
 
 - 📫 How to reach me: **kaim.meiklejohn@gmail.com**
 
-- ⚡ Interest: **I'm interested in data structures and algorithms and their applications, computer vision, and software methodologies, particularly in measuring and improving software quality, developer productivity, and team performance.**
+- ⚡ Interest: **I'm interested in data structures and algorithms and their applications, computer vision and ML, and software methodologies, particularly in measuring and improving software quality, developer productivity, and team performance.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
