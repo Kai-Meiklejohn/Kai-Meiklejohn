@@ -10,8 +10,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kai-Meiklejohn](https://github.com/Kai-Meiklejohn)
 
-- 💬 Ask me about **Python**
-
 - 📫 How to reach me: **kaim.meiklejohn@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
