@@ -10,6 +10,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kai-Meiklejohn](https://github.com/Kai-Meiklejohn)
 
+- ⛩️ Explore my interactive 3D portfolio: [Inari](https://kai-meiklejohn.github.io/inari-portfolio/)
+
 - 📫 How to reach me: **kaim.meiklejohn@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
